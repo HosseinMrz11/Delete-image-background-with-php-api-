@@ -12,3 +12,6 @@
  'image_file' => 'image local address')
  ۲.استفاده از تصویر سایت
  image_url' => 'url image address'
+
+
+*****  توجه کنید که حتما باید ssl داشته باشید *****
